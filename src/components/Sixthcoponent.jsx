@@ -11,3 +11,5 @@ const Sixthcomponent = () => {
         </div>
     )
 }
+
+export default Sixthcomponent;
